@@ -1,0 +1,6 @@
+@tarea1_HostAddress = http://localhost:5230
+
+GET {{tarea1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
